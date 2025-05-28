@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Python, SQL, R, C, C#**
+  🦄 Linguagens: Python, SQL, R, C, C#
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Power BI, Looker Studio, Jupyter Notebook, Excel, Git**
+  💼 Ferramentas: Power BI, Looker Studio, Jupyter Notebook, Excel, Git
 </p>
 
 <p align="left">
