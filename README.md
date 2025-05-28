@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá! Eu sou a <strong>Layssa Alves</strong>, estudante de <strong>Ciência da Computação</strong> na UTFPR e formada em <strong>Logística</strong> pela Estácio de Sá. <br>
-  Sou apaixonada por tecnologia, análise de dados, BI e computação em nuvem. <br>
+  Sou apaixonada por tecnologia, análise de dados e BI. <br>
   Atualmente estou focada em projetos acadêmicos e pessoais que envolvem programação, visualização de dados e aprendizado contínuo. Amo explorar ferramentas novas e transformar dados em informações valiosas!
 </p>
     
