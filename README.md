@@ -8,7 +8,7 @@
     
 <br>
 
-<h3 align="center">📊 Aplicações e Dados</h3>
+<h3 align="left">📊 Aplicações e Dados</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" height="30">
@@ -28,18 +28,18 @@
 
 <br>
 
-<p align="center">
+<p align="left">
   💌 <strong>Vamos nos conectar!</strong> Adoro conhecer pessoas novas e compartilhar conhecimentos:
 </p>
 
 <p align="center">
   <a href="mailto:layssa21.alves@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" height="40">
   </a>
   <a href="https://www.linkedin.com/in/layssa-rodrigues/" title="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" height="40">
   </a>
   <a href="https://www.instagram.com/laay21.alves/" title="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white" height="40">
   </a>
 </p>
